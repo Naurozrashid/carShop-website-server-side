@@ -1,6 +1,6 @@
 # Garirbazar
 
-This serverlink link is in there [click here]('').
+This serverlink link is in there [click here](https://obscure-coast-47054.herokuapp.com/).
 
 ## Importent Notes
 
